@@ -31,6 +31,3 @@ function personInfo() {
 	
 }
 
-function vibrate() {
-        navigator.notification.vibrate(2000);
-    }

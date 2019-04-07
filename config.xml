@@ -5,9 +5,9 @@
         version     = "1.0.0" >
 
     <name>Moja apka piękna</name>
-    <description>My first mobile app</description>
-    <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
-		John Brown
+    <description>Moja pierwsza wstępna aplikacja</description>
+    <author href="http://google.com" email="mariapszczola@gmail.com">
+		Maria Pszczoła
 	</author>
 	<platform name="android" />
 	

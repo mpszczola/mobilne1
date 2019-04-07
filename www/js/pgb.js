@@ -23,8 +23,14 @@ function deviceInfo() {
 
 function personInfo() {
 
-	info2 =  'Hi, my name is Mary :-) + \n';
+	info2 = 'Hi, my name is Mary :-) \n' +
+			'Mary Bee exactly \n' +
+			'I am a student of UEK';
 
 	navigator.notification.alert(info2);
 	
 }
+
+function vibrate() {
+        navigator.notification.vibrate(2000);
+    }
